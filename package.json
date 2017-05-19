@@ -1,7 +1,7 @@
 {
   "name": "numberguessing",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple number guessing game for trying out docker.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
